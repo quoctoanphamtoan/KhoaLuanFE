@@ -1,0 +1,27 @@
+.header-danh-sach-sinh-vien {
+  display: flex;
+    width: 100%;
+    margin-bottom: -39px;
+}
+.selected-danh-sach-sinh-vien {
+  float: right;
+}
+.search-danh-sach-sinh-vien{
+  width: 70%;
+}
+.search-danh-sach-sinh-vien .input-group-append {
+  margin-left: 8px;
+  margin-top: 14px;
+  height: 10%;
+}
+.danh-sach-sinh-vien{
+  margin-top: 50px;
+  border:1px solid #e0e0eb;
+  padding: 5%;
+}
+.danh-sach-sinh-vien .emp-profile{
+  margin-top: 10px;
+}
+.thong-tin-lop-hoc .table-bordered {
+    margin-top: 6%;
+}

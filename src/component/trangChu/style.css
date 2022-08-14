@@ -1,0 +1,15 @@
+.gioi-thieu .card{
+    height: 550px;
+}
+
+marquee{
+     text-shadow: 2px 2px 4px #000000   ;
+}
+
+.gioi-thieu .card-text{
+    font-size: 20px;
+}
+
+.gioi-thieu .card-title{
+    font-size: 25px;
+    color: cornflowerblue;}
